@@ -1,0 +1,3 @@
+com\example\authentication\SpringOauth2DemoApplication.class
+com\example\authentication\SecurityConfig.class
+com\example\authentication\HelloController.class
